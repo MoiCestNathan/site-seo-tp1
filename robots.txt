@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fonn5385.github.io/site-seo-tp1/sitemap.xml
