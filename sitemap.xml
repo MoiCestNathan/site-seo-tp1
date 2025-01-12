@@ -3,32 +3,32 @@
 
   <!-- Page d'accueil -->
   <url>
-    <loc>https://fonn5385.github.io/site-seo-tp1/index.html</loc>
+    <loc>https://fonn5385.netlify.app/index.html</loc>
     <lastmod>2025-01-06</lastmod>
     <priority>1.0</priority>
   </url>
 
   <!-- Pages secondaires -->
   <url>
-    <loc>https://fonn5385.github.io/site-seo-tp1/rules.html</loc>
+    <loc>https://fonn5385.netlify.app/index.html</loc>
     <lastmod>2025-01-06</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://fonn5385.github.io/site-seo-tp1/strategies.html</loc>
+    <loc>https://fonn5385.netlify.app/index.html</loc>
     <lastmod>2025-01-06</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://fonn5385.github.io/site-seo-tp1/variants.html</loc>
+    <loc>https://fonn5385.netlify.app/index.html</loc>
     <lastmod>2025-01-06</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://fonn5385.github.io/site-seo-tp1/faq.html</loc>
+    <loc>https://fonn5385.netlify.app/index.html</loc>
     <lastmod>2025-01-06</lastmod>
     <priority>0.7</priority>
   </url>
