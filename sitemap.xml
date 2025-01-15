@@ -1,36 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Page d'accueil -->
-  <url>
-    <loc>https://fonn5385.netlify.app/index.html</loc>
-    <lastmod>2025-01-12</lastmod>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- Pages secondaires -->
-  <url>
-    <loc>https://fonn5385.netlify.app/rules.html</loc>
-    <lastmod>2025-01-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://fonn5385.netlify.app/strategies.html</loc>
-    <lastmod>2025-01-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://fonn5385.netlify.app/variants.html</loc>
-    <lastmod>2025-01-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://fonn5385.netlify.app/faq.html</loc>
-    <lastmod>2025-01-12</lastmod>
-    <priority>0.7</priority>
-  </url>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+<!-- Page d'accueil / Home page -->
+<url>
+  <loc>https://fonn5385.netlify.app/index.html</loc>
+  <lastmod>2025-01-12</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.0</priority>
+  
+  <xhtml:link rel="alternate" hreflang="en" href="https://fonn5385.netlify.app/index.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://fonn5385.netlify.app/fr/index.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://fonn5385.netlify.app/es/index.html"/>
+</url>
+
+<!-- Rules page -->
+<url>
+  <loc>https://fonn5385.netlify.app/rules.html</loc>
+  <lastmod>2025-01-12</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+  
+  <xhtml:link rel="alternate" hreflang="en" href="https://fonn5385.netlify.app/rules.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://fonn5385.netlify.app/fr/rules.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://fonn5385.netlify.app/es/rules.html"/>
+</url>
+
+<!-- Strategies page -->
+<url>
+  <loc>https://fonn5385.netlify.app/strategies.html</loc>
+  <lastmod>2025-01-12</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+  
+  <xhtml:link rel="alternate" hreflang="en" href="https://fonn5385.netlify.app/strategies.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://fonn5385.netlify.app/fr/strategies.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://fonn5385.netlify.app/es/strategies.html"/>
+</url>
+
+<!-- Variants page -->
+<url>
+  <loc>https://fonn5385.netlify.app/variants.html</loc>
+  <lastmod>2025-01-12</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  
+  <xhtml:link rel="alternate" hreflang="en" href="https://fonn5385.netlify.app/variants.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://fonn5385.netlify.app/fr/variants.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://fonn5385.netlify.app/es/variants.html"/>
+</url>
+
+<!-- FAQ page -->
+<url>
+  <loc>https://fonn5385.netlify.app/faq.html</loc>
+  <lastmod>2025-01-12</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  
+  <xhtml:link rel="alternate" hreflang="en" href="https://fonn5385.netlify.app/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://fonn5385.netlify.app/fr/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://fonn5385.netlify.app/es/faq.html"/>
+</url>
+
 </urlset>
